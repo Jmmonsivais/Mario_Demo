@@ -1,0 +1,12 @@
+Name: 'Program:PF527_Program'
+Type: FolderType
+Children:
+- Name: manual
+  Type: RAEtherNetIPTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Program:PF527_Program.manual"
